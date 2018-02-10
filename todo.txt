@@ -1,0 +1,6 @@
+pool system - done
+raffle system - done
+payment system - done
+facebook auth - done
+admin dashboard - done
+design - none
